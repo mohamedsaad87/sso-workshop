@@ -1,5 +1,5 @@
 {
   "realm" : "master",
-  "auth-server-url" : "<SERVER_URL>/auth",
+  "auth-server-url" : "https://sso-sso-demo.apps.shared-na4.na4.openshift.opentlc.com/auth/",
   "resource" : "js-console"
 }
